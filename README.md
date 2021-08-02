@@ -4,3 +4,6 @@
 
 ## Do projeto
   Trata-se de um pequeno desafio para clonar a página inicial da netflix
+  
+## Status do projeto
+  Concluído
